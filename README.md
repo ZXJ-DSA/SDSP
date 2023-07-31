@@ -14,7 +14,7 @@ The implementation code includes the index construction, query processing, and i
 
 
 ## Data
-An example graph *GOOGLE* is provided in the directory *data* for your reference. You can run *DCT* on the example graph by using the source path `./data`.
+An example graph *GOOGLE* is provided in the directory *data* for your reference. You can run *DCT* on the example graph by using the source path `./data`. Note that you should `unzip -q GOOGLE.zip` to get the processed graph.
 
 
 ## Dependency
