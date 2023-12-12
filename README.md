@@ -1,5 +1,5 @@
 ## Introduction
-This is the source code of the ICDE 2024 paper "*Scalable Distance Labeling Maintenance and Construction for Dynamic Small-World Networks*" (submitted). Please refer to the paper for the algorithm details.
+This is the implementation code of the ICDE 2024 paper "*Scalable Distance Labeling Maintenance and Construction for Dynamic Small-World Networks*" . Please refer to the paper for the algorithm details.
 
 ## Algorithms
 
@@ -16,7 +16,7 @@ The implementation code includes the index construction, query processing, and i
 ## Data
 The datasets of this paper are sourced from [http://snap.stanford.edu/data](http://snap.stanford.edu/data), [http://konect.cc/](http://konect.cc/), and [https://law.di.unimi.it/datasets.php](https://law.di.unimi.it/datasets.php). Please refer to the paper for details.
 
-An example graph *GOOGLE* is provided in the directory *data* for your reference. You can run *DCT* on the example graph by using the source path `./data`. Note that you should `unzip -q GOOGLE.zip` to get the processed graph.
+For your reference, an example graph *GOOGLE* is provided in the directory *data*. You can run *DCT* on the example graph by using the source path `./data`. Note that you should `unzip -q GOOGLE.zip` to get the processed graph.
 
 
 ## Dependency
