@@ -24,3 +24,21 @@ For your reference, an example graph *GOOGLE* is provided in the directory *data
 1. `g++` and `boost`
 
 All the codes are runnable after `cmake` and `make`: go to the corresponding directory, `cmake -DCMAKE_BUILD_TYPE=Release ./` and `make -j`.
+
+
+
+
+## Reference
+
+If you found any of our implementation useful, please cite the appropriate references, listed below:
+
+```
+@inproceedings{zhou2024scalable,
+  title={Scalable distance labeling maintenance and construction for dynamic small-world networks},
+  author={Zhou, Xinjie and Zhang, Mengxuan and Li, Lei and Zhou, Xiaofang},
+  booktitle={2024 IEEE 40th International Conference on Data Engineering (ICDE)},
+  pages={4573--4585},
+  year={2024},
+  organization={IEEE}
+}
+```
